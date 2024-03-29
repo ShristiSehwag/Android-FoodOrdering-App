@@ -1,5 +1,5 @@
 # Advanced Kotlin Assignment
-This project is part of my Android Development Specialization provided by Meta on Coursera. In this project I completed my final assignment from the course called "Advanced Programming in Kotlin". I implemented a simple logic for the app that lets user to sort, filter and view dishes.
+This project is part of my Android Development Specialization provided by Meta on Coursera. In this project, I completed my final assignment from the course called "Advanced Programming in Kotlin". I implemented a simple logic for the app that lets user to sort, filter and view dishes.
 ## Screenshots of the app
 <div align="center">
 <img width="30%" alt="Screenshot_42" src="https://user-images.githubusercontent.com/92806557/236695085-b1cb2be9-cbbd-49fb-a3bb-4657394d5899.png">
